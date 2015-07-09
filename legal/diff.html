@@ -1,0 +1,50 @@
+<html>
+
+<head>
+	<title>NetFPGA vs Apache license</title>
+
+	<style type="text/css">
+	html { padding: 0; }
+	body
+	{
+		height: auto;
+		padding: 0;
+	}
+
+	.diffcontainer
+	{
+		text-align: center;
+	}
+
+	.diffframe
+	{
+		height: 30em;
+		width: 45em;
+
+		border: solid 1px;
+	}
+	</style>
+
+	<script type="text/javascript">
+	function applyStyle(frame, url)
+	{
+		var cssLink = frame.contentDocument.createElement('link');
+		cssLink.href = url;
+		cssLink.rel = 'stylesheet';
+		cssLink.type = 'text/css';
+		frame.contentDocument.head.appendChild(cssLink);
+	}
+	</script>
+</head>
+
+<body>
+	<h1>Differences between NetFPGA v1.0 and Apache v2.0 licenses</h1>
+
+	<div class="diffcontainer">
+	<iframe class="diffframe" src="raw-diff.html"
+		onload="applyStyle(this, '../style/diff.css')">
+	</iframe>
+	</div>
+</body>
+
+</html>
