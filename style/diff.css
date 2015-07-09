@@ -1,0 +1,17 @@
+html
+{
+	font-family: monospace;
+	white-space: pre;
+}
+
+.deleted
+{
+	color: red;
+	text-decoration: line-through;
+}
+
+.inserted
+{
+	color: green;
+	font-weight: bold;
+}
