@@ -17,10 +17,10 @@
    licenses thereto.
 
    If you have not already done so, please complete and sign, then scan and
-   email a pdf file of this Agreement to secretary@@netfpga-cic.org.
+   email a pdf file of this Agreement to secretary@netfpga-cic.org.
    Alternatively, you may send it by facsimile to NetFPGA at +44 (0)1223 
    334678 c/o Dr Andrew W. Moore. If necessary, send an original signed
-   Agreement to NetFPGA Open Systems CIC c/o Dr Andrew W. Moore, University
+   Agreement to NetFPGA CIC c/o Dr Andrew W. Moore, University
    of Cambridge, William Gates Building, 15 JJ Thomson Avenue, Cambridge CB3
    0FD, United Kingdom.  Please read this document carefully before signing
    and keep a copy for your records.
